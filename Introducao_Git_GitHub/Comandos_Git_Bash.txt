@@ -1,1 +1,1 @@
-AtravŽs dos comandos no Git Bash podemos enviar esta pasta criada no diretório local para o controle de versão no repositório remoto.
+Através dos comandos no Git Bash podemos enviar esta pasta criada no diretório local para o controle de versão no repositório remoto.
