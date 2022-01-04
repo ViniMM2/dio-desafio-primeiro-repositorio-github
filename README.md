@@ -1,2 +1,5 @@
-# dio-desafio-primeiro-repositorio-github
-Desafio primeiro repositório GitHub
+# Desafio Primeiro Repositório GitHub
+- Desafio da DIO para criação de repositório GitHub 
+- Aplicação de comandos via Git Bash
+
+_Conheça a DIO:_ [dio.me](https://www.dio.me/)
